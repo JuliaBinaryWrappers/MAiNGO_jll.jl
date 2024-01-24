@@ -1,0 +1,146 @@
+[[MAiNGO]]
+arch = "x86_64"
+git-tree-sha1 = "5b03141bdf071b92a9f2cb43c7c0548b509a05f6"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[MAiNGO.download]]
+    sha256 = "a6a6d865bbc67a7291dcd2b11788d5ec759db8f4399b7e9505253e8179b072f9"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+git-tree-sha1 = "69a82c5f63ecaf5df587943715f4a504c55dbeeb"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[MAiNGO.download]]
+    sha256 = "b8ec798f866419d70f12ab5033688273ff418997fd258f4ddff85caf37a0346a"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61784111b29e11e6196b612d93a1b671b65879bb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "160d1f3cd425b1ba8fc4b6fee032eafd6912af3227874465c4a3c1d87989222b"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fed2e3683b36e9a589a2a929da5a0f5bb2697bf9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "717697294a9d788377367a3fcef847d36743a1e9f0c375915319c1bb38e6114a"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "49347aaf6c13438417cd3194637ea0ec130ff71e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "a7b4630bc94d8e28345be64cd508b8e997bc25f062fbc5678cc9bf6102609443"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9df4f414ea3c41119991cd376f013c6818620e28"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "da5a59efc32f8215c8c434cd8cc26bda7a53f6ff83cf4b8ff3cb9097913d33ec"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6fba7107efaf8a768e52f3dca01240d36f95d5ef"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "40e0a3466d72853d65eea375112c5a843321d4c8588f66cc1cdb09b84877936e"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f24ec0eca49ed5685aafdaed481a02df6b75771"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "416875264fa0c478a723314f87ee048703d01c32f2a3fdfadc4f6dc2d3b8625e"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bcedf41c8ce4f5da983aaf76ad01576ea32d08fb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "73f0cf63df6b1507d8f5bf99286a337d09f06f1f842f3396935e457006097b6a"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6eaa7932083fdd4b9c91e723e0eac54d3c96ba6f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MAiNGO.download]]
+    sha256 = "ace8a3d5228f4bf99bad5fe1fd1d7419b0eff596ac01b1456c1cc8eab25ddcda"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "25f5f2caa49ebec3e584902c2d95209a2f218f8d"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[MAiNGO.download]]
+    sha256 = "e6801edd99dc81a2af5bff2cdd028794c3f8c4b92c2bf29ae9ae1350c78c5d3a"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea8eb52375fb5ca5ccbabf39bd0cdb393e048192"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[MAiNGO.download]]
+    sha256 = "05df9147523e0d6d58e40b55a2a147c423dcce441d46ca480b6328c522784505"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b012be6b1cf735b0b0a57fbff918f7a882095e38"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[MAiNGO.download]]
+    sha256 = "bc96a3653595bc4b7643cfedc11b7b1458d826617f2dcc9a31609c94d0cfe06f"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+[[MAiNGO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b4c09335a2831d24e5dafdff35ced70eb669a40a"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[MAiNGO.download]]
+    sha256 = "bb0350e2732dbe47ad67a13c61a0f1861ebc8b429c5a91bf3527a75a8fc72167"
+    url = "https://github.com/JuliaBinaryWrappers/MAiNGO_jll.jl/releases/download/MAiNGO-v0.7.2+0/MAiNGO.v0.7.2.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
